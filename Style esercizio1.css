@@ -1,0 +1,17 @@
+.mytable {
+    display:table;
+    width: 100%;
+}
+
+.mytablerow {
+    display:table-row;
+    
+}
+.tableheadercell{
+    display:table-cell;
+    border-bottom-color:black;
+    border-bottom: solid 1px;
+}
+.tablecell {
+    display:table-cell;
+}
