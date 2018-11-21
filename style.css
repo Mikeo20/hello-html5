@@ -10,7 +10,7 @@
 .tableheadercell{
     display:table-cell;
     border-bottom-color:black;
-    border-bottom: 1px;
+    border-bottom: solid 1px;
 }
 .tablecell {
     display:table-cell;
