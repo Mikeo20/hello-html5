@@ -7,7 +7,10 @@
     display:table-row;
     
 }
-
+.tableheadercell{
+    display:table-cell;
+    border-bottom-color: azure;
+}
 .tablecell {
     display:table-cell;
 }
