@@ -9,7 +9,8 @@
 }
 .tableheadercell{
     display:table-cell;
-    border-bottom-color: azure;
+    border-bottom-color:black;
+    border-bottom: 1px;
 }
 .tablecell {
     display:table-cell;
