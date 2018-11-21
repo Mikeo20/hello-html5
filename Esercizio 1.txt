@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="style.css">
     <div class='mytable'>
         <div class='mytablerow'>
-             <div class="tableheadercell">when and what</div>
-             <div class="tableheadercell">Prezzo</div>
+             <div class="tableheadercell">When and What</div>
+             <div class="tableheadercell">Where</div>
             </div>
