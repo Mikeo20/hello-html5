@@ -1,12 +1,12 @@
-.table {
+.mytable {
     display:table;
     width: 100%;
 }
 
-.row-header {
+.mytablerow {
     display:table-row;
 }
 
-.cell {
+.tablecell {
     display:table-cell;
 }
