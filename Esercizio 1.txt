@@ -6,3 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Project X</title>
     <link rel="stylesheet" href="style.css">
+    <div class='mytable'>
+        <div class='mytablerow'>
+             <div class="tableheadercell">when and what</div>
+             <div class="tableheadercell">Prezzo</div>
+            </div>
