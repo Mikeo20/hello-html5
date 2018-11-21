@@ -9,7 +9,9 @@
 }
 .tableheadercell{
     display:table-cell;
+
     border-bottom-color:black;
+    
     border-bottom:2px;
 }
 .tablecell {
